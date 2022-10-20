@@ -1,0 +1,9 @@
+.imagen {
+    width: 200px;
+    height: 200px;
+}
+
+.fila {
+    display: flex;
+    align-items: end;
+}
